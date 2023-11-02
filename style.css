@@ -238,6 +238,10 @@ body{
         font-size: 1.3rem;
     }
 
+    .conteiner li{
+        display: flex;
+    }
+
    .conteiner img{
     height: 100px;
    }
